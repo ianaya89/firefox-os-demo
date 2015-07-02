@@ -1,13 +1,12 @@
 # Firefox OS Demo App
-___
-
 This is a demo of how to build a Firefox OS application.
+___
 
 ### Project Content
 1. [manifest.webapp](https://developer.mozilla.org/en-US/Apps/Build/Manifest) --> Provides information about the app.
-2. *js/...* --> JavaScript files.
-3. *ccs/...* --> CSS files.
-4. *index.html* --> HTML main file.
+2. **js/...** --> JavaScript files.
+3. **ccs/...** --> CSS files.
+4. **index.html** --> HTML main file.
 
 ### Run It
 1. Clone project or download zip.
