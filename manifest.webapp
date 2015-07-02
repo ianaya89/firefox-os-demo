@@ -1,0 +1,11 @@
+{
+  "name": "Firefox OS Demo App",
+  "description": "Demo of how to build Firefox OS apss.",
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Ignacio Anaya",
+    "url": "http://twitter.com/ianaya89"
+  },
+  "permissions": {}
+}
