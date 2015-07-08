@@ -10,7 +10,7 @@ ___
 
 ### Run It
 1. Clone project or download zip.
-2. Open [Firefox Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)  an then open [WebIDE](https://www.mozilla.org/en-US/firefox/developer/).
+2. Open [Firefox Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)  and then open [WebIDE](https://www.mozilla.org/en-US/firefox/developer/).
 3. Click "Open Packaged App" and select the root project folder.
 
 
